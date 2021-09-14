@@ -8,6 +8,6 @@ public class Poly {
              public static void main(String[] args) {
                  Poly ad=new Poly();
                  ad.add(5,6);
-                  ad.add(6,8,4);
+                  ad.add(6,8,2);
  }
 }
